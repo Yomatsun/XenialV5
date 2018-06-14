@@ -80,6 +80,8 @@
 
 #include <linux/kcov.h>
 
+#include <linux/kcov.h>
+
 #include <asm/switch_to.h>
 #include <asm/tlb.h>
 #include <asm/irq_regs.h>
