@@ -789,8 +789,6 @@ struct mdp_set_cfg {
 
 #define HDR_PRIMARIES_COUNT 3
 
-#define MDP_HDR_STREAM
-
 struct mdp_hdr_stream {
 	uint32_t eotf;
 	uint32_t display_primaries_x[HDR_PRIMARIES_COUNT];
